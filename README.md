@@ -1,5 +1,7 @@
 ![logo](https://github.com/Vikas28A/Vikas28A/blob/main/file.png)
 
+
+
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A Passionate Python Developer From India</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?w=253&h=190&c=7&r=0&o=5&dpr=1.3&pid=1.7">
@@ -10,9 +12,9 @@
 
 - 🌱 I’m Currently Learning **Python,App Development**
 
-- 👨‍💻 All Of My Projects Are Available At [https://github.com/Vikas28A](https://github.com/Vikas28A)
+- 👨‍💻 All Of My Projects Are Available At [https://github.com/ItsVikasA](https://github.com/ItsVikasA)
 
-- 💬 Ask Me About **Python,C,C++,Coding Concepts**
+- 💬 Ask Me About **Python,C,C++,Coding Concepts**k
 
 - 📫 How To Reach Me **vikas.ambalazari@gmail.com**
 
