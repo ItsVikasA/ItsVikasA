@@ -1,4 +1,4 @@
-![logo](https://github.com/Vikas28A/Vikas28A/blob/main/file.png)
+![logo](https://github.com/ItsVikasA/ItsVikasA/blob/main/FINAL.jpg)
 
 
 
