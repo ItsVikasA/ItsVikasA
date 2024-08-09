@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vikas ambalazari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas ambalazari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Vikas028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas ambalazari" height="30" width="40" /></a>
 <a href="https://fb.com/vikas ambalazari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikas ambalazari" height="30" width="40" /></a>
 <a href="https://instagram.com/hands_on_coding_028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hands_on_coding_028" height="30" width="40" /></a>
 <a href="https://youtube.com/@vikasambalazari?si=TVQ266u3XFUswE8U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucgh8dzkokl1g_j8entapbsg" height="30" width="40" /></a>
