@@ -1,4 +1,4 @@
-![logo](https://github.com/ItsVikasA/ItsVikasA/blob/main/FINAL.jpg)
+![logo](https://github.com/ItsVikasA/ItsVikasA/blob/main/c.jpg)
 
 
 
