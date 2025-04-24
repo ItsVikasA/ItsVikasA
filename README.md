@@ -3,18 +3,18 @@
 
 
 <h1 align="center">Hi 👋, I'm Vikas</h1>
-<h3 align="center">A Passionate Python Developer From India</h3>
+<h3 align="center">A Passionate MERN Stack Developer From India</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?w=253&h=190&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas&label=Profile%20views&color=0e75b6&style=flat" alt="vikas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m Currently Learning **Python,App Development**
+- 🌱 I’m Currently Learning **MERN Stack,DSA in C++**
 
 - 👨‍💻 All Of My Projects Are Available At [https://github.com/ItsVikasA](https://github.com/ItsVikasA)
 
-- 💬 Ask Me About **Python,C,C++,Coding Concepts**k
+- 💬 Ask Me About **Python,C,C++,Java,Coding Concepts**k
 
 - 📫 How To Reach Me **vikas.ambalazari@gmail.com**
 
