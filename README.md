@@ -14,7 +14,7 @@
 
 - 👨‍💻 All Of My Projects Are Available At [https://github.com/ItsVikasA](https://github.com/ItsVikasA)
 
-- 💬 Ask Me About **Python,C,C++,Java,Coding Concepts**k
+- 💬 Ask Me About **Python,C,C++,Java,Coding Concepts**
 
 - 📫 How To Reach Me **vikas.ambalazari@gmail.com**
 
